@@ -1,0 +1,21 @@
+# CITATION.cff
+# Para citar este repositorio en trabajos académicos
+
+cff-version: 1.2.0
+message: "Si utilizas este trabajo en tu investigación, por favor cítalo como:"
+authors:
+  - family-names: "Condor2026"
+   twitter-names: "Panda_Sec_intel"
+title: "Threat Intelligence Report: tprbalxs.shop Phishing Campaign"
+version: 1.0.0
+date-released: 2026-07-01
+url: "https://github.com/Condor2026/threat-intel-tprbalxs"
+repository-code: "https://github.com/Condor2026/threat-intel-tprbalxs"
+abstract: "Análisis completo de la infraestructura de phishing y malware centrada en la IP 104.17.231.54 y dominios .shop. Incluye IOCs, reglas de detección y scripts."
+keywords:
+  - threat-intelligence
+  - phishing
+  - malware
+  - iocs
+  - cybersecurity
+license: MIT
